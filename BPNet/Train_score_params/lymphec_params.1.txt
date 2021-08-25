@@ -1,0 +1,4 @@
+pretrained_bias_model	/mnt/lab_data2/bias_correction/atac_bias_models/Tobias/bias.atac.24mer.1.hdf5
+counts_loss_weight	13.1
+profile_loss_weight	1
+filters	500
