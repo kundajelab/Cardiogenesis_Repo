@@ -16,7 +16,7 @@ echo $CUDA_VISIBLE_DEVICES
 for fold in 0
 do
 
-    for shuf in 1 2
+    for shuf in 0 1 2
     do
 
         echo $cluster
