@@ -3,7 +3,7 @@ This folder ArchR notebooks for all single cell analysis presented manuscript an
 1. Cardiogenesis - Plotting footprints with and without cleaning.r - Notebook contains the modified footprinting function adapted from ArchR for plotting the naive overlap motif and BPNet cleaned motif footprints.
 2. Cardiogenesis - Fetal + Invitro combined project.r - Notebook contains the ArchR code for creating the in vivo and in vitro combined ArchR project, followed by peak calling and motif calling. 
 	a) Fragment files are available on GEO to create arrow files
-	b) fetal_hearts_names_Final.csv - Post filtering in vivo barcodes required for subsetting the ArchR project
+	b) Final_barcodes_fetal_heart_NOMICROPHAGES.csv - Post filtering in vivo barcodes required for subsetting the ArchR project
 	c) differentiation_names_Final.csv - Post filtering in vitro barcodes required for subsetting the ArchR project
 3. Cardiogenesis - Invitro cells clustering, peak calling, motif annotation.r - Notebook contains the ArchR code for creating the in vitro (iPSC derived cardiac cells) ArchR project, followed by peak calling, motif calling.
 	a) differentiation_names_Final.csv - Post filtering in vitro barcodes required for subsetting the ArchR project
