@@ -9,6 +9,6 @@ This folder ArchR notebooks for all single cell analysis presented manuscript an
 	a) differentiation_names_Final.csv - Post filtering in vitro barcodes required for subsetting the ArchR project
 4. Cardiogenesis Clustering , Peak Calling, Motif Annotation & ATAC RNA integration.r - Notebook contains the ArchR code for creating the in vivo (fetal cardiac cells) ArchR project, followed by peak calling, motif calling and integrating scRNA data from roughly matched public datasources.
 	a) Final_barcodes_fetal_heart_NOMICROPHAGES.csv - Post filtering in vivo barcodes required for subsetting the ArchR project
-	b) The cleaned scRNA object is available in zenodo - human_6_8_12and19_merged_final.rds https://zenodo.org/record/7392252
+	b) The cleaned scRNA object is available in zenodo - human_6_8_12and19_merged_final_cleaned.rds https://zenodo.org/record/7392252
 5. Cardiogenesis - Projecting invitro cells on invivo cells & DIfferent enhancers and TFs.r - Notebook contains the code to perform the differential analysis between fetal heart in vivo cells and iPSC derived cardiac cell types (in vitro cells), nearest neighbour differential analysis and motif enrichment.
 6. Cardiogenesis Projecting invitro on to invivo & Trajectories & Nearest neighbours- NEW EPC.r - Notebook contains the code to perform the differential analysis between fetal heart in vivo cells and new iPSC derived Epicardial cells (EPC), nearest neighbour analysis and differential enhancer.
