@@ -5,7 +5,7 @@ This folder ArchR notebooks for all single cell analysis presented manuscript an
 	a) Fragment files are available on GEO to create arrow files
 	b) fetal_hearts_names_Final.csv - Post filtering in vivo barcodes required for subsetting the ArchR project
 	c) differentiation_names_Final.csv - Post filtering in vitro barcodes required for subsetting the ArchR project
-3. Cardiogenesis - Invitro cells clustering, peak calling, motif annotation & ATAC RNA integration.ipynb - Notebook contains the ArchR code for creating the in vitro (iPSC derived cardiac cells) ArchR project, followed by peak calling, motif calling and integrating scRNA data from Friedman et al.
+3. Cardiogenesis - Invitro cells clustering, peak calling, motif annotation.ipynb - Notebook contains the ArchR code for creating the in vitro (iPSC derived cardiac cells) ArchR project, followed by peak calling, motif calling and integrating scRNA data from Friedman et al.
 	a) differentiation_names.csv - Post filtering in vitro barcodes required for subsetting the ArchR project
 	b) The cleaned scRNA object is available in zenodo - friedman_final_cleaned.rds https://zenodo.org/record/7392252
 4. Cardiogenesis Clustering , Peak Calling, Motif Annotation & ATAC RNA integration.ipynb - Notebook contains the ArchR code for creating the in vivo (fetal cardiac cells) ArchR project, followed by peak calling, motif calling and integrating scRNA data from roughly matched public datasources.
