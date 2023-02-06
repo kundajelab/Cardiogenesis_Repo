@@ -5,7 +5,8 @@ Cardiogenesis Repo This repo contains scripts for the single cell analysis and B
 3. BPNet models are available at Zenodo at https://doi.org/10.5281/zenodo.6789181
 4. The cleaned scRNA object is available in zenodo - human_6_8_12and19_merged_final_cleaned.rds https://zenodo.org/record/7392252
 5. The Fetal heart invivo ArchR object is available at Zenodo - https://zenodo.org/record/7609326
-6. The folders are arranged for different analysis presented in the manuscript
+6. The Invitro differentiation ArchR object is available at Zenodo - https://zenodo.org/record/7613031
+7. The folders are arranged for different analysis presented in the manuscript
 	a) BPNet - contains all scripts and files for training the BPNet models and scoring the congenital heart disorder mutations
 	b) Motif_Filtering - contains all scripts and files required for cleaning the naive motif calls using BPNet models
 	c) OptimalTransport - contains all scripts and files required for trajectory analysis from the fetal atlas
