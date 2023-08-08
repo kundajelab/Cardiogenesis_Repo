@@ -1,6 +1,6 @@
 Cardiogenesis Repo This repo contains scripts for the single cell analysis and BPNet model training and analysis for the Cardiogenesis dataset
 
-<b>NOTE:</b> We recommend using the latest version of ChromBPNet https://github.com/kundajelab/chrombpnet to train similar neural network models on custom datasets. The model training and analysis code in this repo is deprecated and not supported any longer. It is provided here to reproduce the results of this specific paper.
+<b>NOTE:</b> We recommend using the latest version of ChromBPNet https://github.com/kundajelab/chrombpnet to train similar neural network models on custom chromatin accessibility datasets. The model training and analysis code in this repo is deprecated and not supported any longer. It is provided here to reproduce the results of this specific paper.
 
 1. The single cell analysis code is based off ArchR (https://www.archrproject.com/index.html) and the notebooks contain modifications to standard archr functions when they are used in the manuscript. 
 2. The BPNet code base uses two other repos : KerasAC (https://zenodo.org/record/4248179#.X8skj5NKiF0) and seqdataloader (https://zenodo.org/record/3771365#.X8skqZNKiF0) as part of the data processing and model training scripts.
