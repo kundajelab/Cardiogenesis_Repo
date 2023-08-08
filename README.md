@@ -3,7 +3,7 @@ Cardiogenesis Repo This repo contains scripts for the single cell analysis and B
 <b>NOTE:</b> We recommend using the latest version of ChromBPNet https://github.com/kundajelab/chrombpnet to train similar neural network models on custom chromatin accessibility datasets. The model training and analysis code in this repo is deprecated and not supported any longer. It is provided here to reproduce the results of this specific paper.
 
 1. The single cell analysis code is based off ArchR (https://www.archrproject.com/index.html) and the notebooks contain modifications to standard archr functions when they are used in the manuscript. 
-2. The BPNet code base uses two other repos : KerasAC (https://zenodo.org/record/4248179#.X8skj5NKiF0) and seqdataloader (https://zenodo.org/record/3771365#.X8skqZNKiF0) as part of the data processing and model training scripts.
+2. The BPNet code base uses two other repos : KerasAC (https://zenodo.org/record/4248179#.X8skj5NKiF0) and seqdataloader (https://zenodo.org/record/3771365#.X8skqZNKiF0) as part of the data processing and model training scripts. We recommend using the latest version of ChromBPNet https://github.com/kundajelab/chrombpnet to train similar neural network models on custom chromatin accessibility datasets. The model training and analysis code in this repo is deprecated and not supported any longer. It is provided here to reproduce the results of this specific paper.
 3. BPNet models are available at Zenodo at https://doi.org/10.5281/zenodo.6789181
 4. The cleaned scRNA object is available in zenodo - human_6_8_12and19_merged_final_cleaned.rds https://zenodo.org/record/7392252
 5. The Fetal heart invivo ArchR object is available at Zenodo - https://zenodo.org/record/7609326
